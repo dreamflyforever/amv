@@ -1,0 +1,3 @@
+/home/easy_test/ioctrl/build/CMakeFiles/ioctrl_test.dir
+/home/easy_test/ioctrl/build/CMakeFiles/edit_cache.dir
+/home/easy_test/ioctrl/build/CMakeFiles/rebuild_cache.dir

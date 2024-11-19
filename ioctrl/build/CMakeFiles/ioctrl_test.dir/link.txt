@@ -1,0 +1,1 @@
+arm-rockchip830-linux-uclibcgnueabihf-gcc CMakeFiles/ioctrl_test.dir/ioctrl.c.o -o ioctrl_test 

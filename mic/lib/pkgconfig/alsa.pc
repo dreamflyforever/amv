@@ -1,0 +1,12 @@
+prefix=/home/Alsa_example/alsa-lib-1.2.7.2/builds
+exec_prefix=/home/Alsa_example/alsa-lib-1.2.7.2/builds
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: alsa
+Description: Advanced Linux Sound Architecture (ALSA) - Library
+Version: 1.2.7.2
+Requires: 
+Libs: -L${libdir} -lasound
+Libs.private: -lm -ldl -lpthread -lrt
+Cflags: -I${includedir}

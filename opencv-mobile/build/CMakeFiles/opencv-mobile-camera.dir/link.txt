@@ -1,0 +1,1 @@
+arm-rockchip830-linux-uclibcgnueabihf-g++ CMakeFiles/opencv-mobile-camera.dir/main.cpp.o -o opencv-mobile-camera  ../lib/libopencv_core.a ../lib/libopencv_features2d.a ../lib/libopencv_highgui.a ../lib/libopencv_imgproc.a ../lib/libopencv_photo.a ../lib/libopencv_video.a ../lib/libopencv_imgproc.a ../lib/libopencv_core.a -ldl -lm -lrt 

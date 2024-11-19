@@ -1,0 +1,3 @@
+/home/easy_test/opencv-mobile/build/CMakeFiles/opencv-mobile-camera.dir
+/home/easy_test/opencv-mobile/build/CMakeFiles/edit_cache.dir
+/home/easy_test/opencv-mobile/build/CMakeFiles/rebuild_cache.dir
